@@ -27,7 +27,7 @@ header, nav, main, footer {
  
 header {
     background: #0B1530;
-    color: #c2ac06;
+    color: #06bcc2;
     overflow: hidden;
 }
  
@@ -103,7 +103,7 @@ th {
  
 td {
     padding: 10px;
-    border-bottom: 1px solid #c2ac06;
+    border-bottom: 1px solid #06bcc2;
 }
  
 
